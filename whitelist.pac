@@ -7,7 +7,7 @@ var white_domains = {
 "ai":{
 "deepvision":1
 },"wiki":{
-"huiji":1
+"huiji":1,
 },"one":{
 "zym":1
 },"download":{
