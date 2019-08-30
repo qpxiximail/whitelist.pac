@@ -5,9 +5,10 @@ var ip_proxy = "DIRECT;";
 
 var white_domains = {
 "ai":{
-"deepvision":1
+"deepvision":1,
 },"wiki":{
-"huiji":1
+"huiji":1,
+"workers.dev":1,	
 },"one":{
 "zym":1
 },"download":{
